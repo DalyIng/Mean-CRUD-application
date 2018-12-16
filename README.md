@@ -4,9 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running app online:
 
-The application was deployed to `HEROKU`, visit [Karma](https://crudapplicationmean.herokuapp.com/).
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+The application was deployed to `HEROKU`, visit `https://crudapplicationmean.herokuapp.com/`.
 
 ## Development server
 
